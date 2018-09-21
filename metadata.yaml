@@ -8,6 +8,9 @@ contributor:
     deathdate: 1942
     gutenberg_agent_id: '42323'
     url: http://www.gutenberg.org/2009/agents/42323
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dumas, Alexandre
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/492
     wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54592#Morsiuspuku
 gutenberg_issued: '2017-04-23'
 gutenberg_type: Text
 identifiers:
